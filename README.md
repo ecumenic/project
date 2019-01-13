@@ -176,12 +176,12 @@ Interact with your local creative community and ecumenic congregations to analyz
 - Ecosystem Scalable Co-Growth.
 
 # 9. DEVELOPMENT COMMUNITY:
-http://github.com/ecumenic
+# http://github.com/ecumenic
 
 # 10. TEAM:
 
-10.1. PROJECT DIRECTOR: Operário Ribeiro
-- https://www.linkedin.com/in/operarioribeiro
+- PROJECT DIRECTOR: Operário Ribeiro
+https://www.linkedin.com/in/operarioribeiro
 
 # 11. CREDITS:
 - Base Template by UIdeck Essence: http://uideck.com
