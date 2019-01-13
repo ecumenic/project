@@ -1,19 +1,20 @@
-ECUMENIC CREATIVE OPERATIONS
-http://ecumenic.github.io
-ecumenic@protonmail.com
+# ECUMENIC CREATIVE OPERATIONS
+# http://ecumenic.github.io
+# ecumenic@protonmail.com
 
-◇
+# ◇
 
-1. PROJECT: Website for our collective open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
+# 1. PROJECT: 
+- Website for our collective open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
 
-2. CONTRIBUTIONS NEEDED:
+# 2. CONTRIBUTIONS NEEDED:
 - Ecumenic Creative Operations overall project optimization.
 
-3. PROJECT SPECIFICITIES:
+# 3. PROJECT SPECIFICITIES:
 - Audience Restriction: [PG] - Parental Guidance Recommended.
 - Copyright License: Creative Commons [CC BY-NC-SA] 4.1.
 
-4. ECUMENIC INCLUSIVE SOLIDARY ETHICS:
+# 4. ECUMENIC INCLUSIVE SOLIDARY ETHICS:
 
 4.1. ECUMENIC GUIDELINES: 
 - God is understood in this project as The Utmost Perfection. We humans fail but may improve through ethic, virtues, and worshipful works to God.
@@ -24,7 +25,7 @@ ecumenic@protonmail.com
 - Let's Make It Good To Be Good. Good thoughts, Good words, Good Actions, Good Works. 
 - Entrepeneurial Prudent Provision, Ethic Efficiency, Prime Performance.
 
-5. TRANSPARENT CONTRACTS:
+# 5. TRANSPARENT CONTRACTS:
 - Optimum Technical Needs Engineering:
 - Collaborative Respectful Relations. 
 - Previous Online Abroad Meetings. 
@@ -38,7 +39,7 @@ ecumenic@protonmail.com
 - Just Lawful Contract & Work Security.
 - Processual Audiovisual Documentation. 
 
-6. RELIABILITY ENGINEERING:
+# 6. RELIABILITY ENGINEERING:
 - BUSINESS ENVIRONMENT ENGINEERING:
 - Responsability Seeking Creative Process Model.
 - Juridically Lawful Interventive Artistic Actions.
@@ -82,7 +83,7 @@ ecumenic@protonmail.com
 - Equal opportunity dignified diversity reasonable social dialogue.
 - Live fortication of data-scientific funneling & target advertisement.
 
-7. IN-FIELD RESEARCH: ECO is conceived as a flexible modular process to fit different time-lenght and site specificities through dialogue with your work. We:
+# 7. IN-FIELD RESEARCH: ECO is conceived as a flexible modular process to fit different time-lenght and site specificities through dialogue with your work. We:
 - Meet you and research your enterprise work history and analyze our joint venture cultural positioning best possible actions together.
 Interact with your local creative community and ecumenic congregations to analyze how they relate to each other and to our project. 
 - Pilgrimage to devotional landmarks while praying, studying and crafting an audiovisual essay about local faithful spiritual aesthetics. 
@@ -93,7 +94,7 @@ Interact with your local creative community and ecumenic congregations to analyz
 - Produce a coherent presentation of our collective project to representatives of the creative and ecumenic community to improve its features. 
 - Organize processual documentation and design replicable methodologic materials to foster new ethic cultural projects and virtuous initiatives. 
 
-8. RESPONSIBLE CREATIVITY PROGRAM:
+# 8. RESPONSIBLE CREATIVITY PROGRAM:
 - Progressive Course Plan:
 - Worshipful Compassionate  Listening.
 - Sinaesthesia Diet Monitoring.
@@ -174,26 +175,26 @@ Interact with your local creative community and ecumenic congregations to analyz
 - Perma-Culture Sustainability.
 - Ecosystem Scalable Co-Growth.
 
-9. DEVELOPMENT COMMUNITY:
+# 9. DEVELOPMENT COMMUNITY:
 http://github.com/ecumenic
 
-10. TEAM:
+# 10. TEAM:
 
 10.1. PROJECT DIRECTOR: Operário Ribeiro
 - https://www.linkedin.com/in/operarioribeiro
 
-11. CREDITS:
+# 11. CREDITS:
 - Base Template by UIdeck Essence: http://uideck.com
 - Coding References by W3 Schools: https://www.w3schools.com
 - Layout References by LayoutIt: https://www.layoutit.com
 - Fonts Typography by Ubuntu Design: https://design.ubuntu.com/font
 - Iconography by The Noun Project: https://thenounproject.com
 
-12. LICENCES: 
+# 12. LICENCES: 
 - The ECO Project uses Creative Commons [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0
 - The ECO Website uses the MIT: https://opensource.org/licenses/MIT
 
-13. CONTACT:
+# 13. CONTACT:
 ecumenic@protonmail.com
 
-◇
+# ◇
