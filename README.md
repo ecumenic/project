@@ -5,7 +5,7 @@
 # ◇
 
 # 1. PROJECT: 
-- Website for our collective open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
+- Open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
 
 # 2. CONTRIBUTIONS NEEDED:
 - Ecumenic Creative Operations overall project optimization.
