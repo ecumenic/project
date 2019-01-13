@@ -14,10 +14,12 @@ ecumenic@protonmail.com
 - Copyright License: Creative Commons [CC BY-NC-SA] 4.1.
 
 4. ECUMENIC INCLUSIVE SOLIDARY ETHICS:
+
 4.1. ECUMENIC GUIDELINES: 
 - God is understood in this project as The Utmost Perfection. We humans fail but may improve through ethic, virtues, and worshipful works to God.
 -Ecumenism as an ethic unitarian congregational interreligious interdenominational interfaith that nourishes God's whole creation (οἰκουμένη). 
 -Culture is, in this project, a faithful devotional dignified inclusive work of solidary welfare crafting to glorify God with human full communion. 
+
 4.2. ENTERPRISE VALUES:
 - Let's Make It Good To Be Good. Good thoughts, Good words, Good Actions, Good Works. 
 - Entrepeneurial Prudent Provision, Ethic Efficiency, Prime Performance.
@@ -37,7 +39,7 @@ ecumenic@protonmail.com
 - Processual Audiovisual Documentation. 
 
 6. RELIABILITY ENGINEERING:
-6.1. BUSINESS ENVIRONMENT ENGINEERING:
+- BUSINESS ENVIRONMENT ENGINEERING:
 - Responsability Seeking Creative Process Model.
 - Juridically Lawful Interventive Artistic Actions.
 - Laic & Interfaith Religious Dialogue Interfaces.
