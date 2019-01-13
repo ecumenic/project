@@ -57,6 +57,7 @@ ecumenic@protonmail.com
 - Regenerative Spiritual Tourism Implementation.
 - Intergenerational Respectful Cultural Interfaces.
 - Shared Value Prosperity Actors Multiplication.
+
 6.2. COLLABORATIONS ENGINEERING:
 - Cultural Creation Gratefulness. 
 - Respectful Professional Relations. 
@@ -65,6 +66,7 @@ ecumenic@protonmail.com
 - Simple Task-Oriented Schedule. 
 - Portfolio Valuing & Implementation.
 - Creative Industry Networking.
+
 6.3. INSTITUTIONAL ENGINEERING:
 - Institutional history researched and promoted artistically. 
 - Coproductive craft & theoretic skills improvement legacy. 
@@ -176,6 +178,7 @@ Interact with your local creative community and ecumenic congregations to analyz
 http://github.com/ecumenic
 
 10. TEAM:
+
 10.1. PROJECT DIRECTOR: Operário Ribeiro
 - https://www.linkedin.com/in/operarioribeiro
 
