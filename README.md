@@ -217,13 +217,13 @@ Interact with your local creative community and ecumenic congregations to analyz
 - Online BlockChain Payment by FairCoin: https://www.fair-coin.org
 - Online Crowdsourcing by Causes: https://www.causes.com
 
-## 10. DEVELOPMENT COMMUNITY:
-http://github.com/ecumenic
-
-## 11. TEAM:
+## 10. ADMINISTRATIVE BOARD:
 
 - PROJECT DIRECTOR: Operário Ribeiro
 https://www.linkedin.com/in/operarioribeiro
+
+## 11. DEVELOPMENT COMMUNITY:
+http://github.com/ecumenic
 
 ## 12. LICENCE: 
 The Ecumenic Creative Operations project uses Creative Commons [CC BY-NC-SA 4.0]
