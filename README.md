@@ -1,38 +1,48 @@
-# ECUMENIC CREATIVE OPERATIONS
+# ECUMENIC CREATIVE OPERATIONS 
 ## http://ecumenic.github.io
 ## http://github.com/ecumenic
 ## ecumenic@protonmail.com
 
-## ◇
+# ◇
+
+# ECUMENIC CREATIVE OPERATIONS PROJECT
+## http://github.com/ecumenic/project
+## ecumenic@protonmail.com
+
+# ◇
 
 ## 1. PROJECT: 
 - Open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
 
+1.2. PROJECT SPECIFICITIES:
+- International English HTML CSS JS scripted website.
+- Audience Restriction: [PG] - Parental Guidance Recommended.
+- Copyright License: Creative Commons [CC BY-NC-SA] 4.1.
+
 ## 2. CONTRIBUTIONS NEEDED:
-- Website (https://github.com/ecumenic/ecumenic.github.io) review and human audited translation to different languages.
-- Documentation (https://github.com/ecumenic/documentation) review and human audited translation to different languages.
-- Overall project (https://github.com/ecumenic/project) review and optimization.
+- Ecumenic Creative Operations project (https://github.com/ecumenic/project) review and optimization.
+- ECO documentation (https://github.com/ecumenic/documentation) review and optimization.
+- Project translation to other multiple languages.
 - Other repository projects (https://github.com/ecumenic) review and optimization.
 
 ## 3. CONTRIBUTING:
 
-4.1. Learn about our project processual architecture and our collaborations reliability engineering at our website and documentation in it:
+3.1. Learn about our project processual architecture and our collaborations reliability engineering at our website and documentation in it:
 http://ecumenic.github.io
 
-4.2. Read our overall project README.ME 
+3.2. Read our overall project README.ME 
 https://github.com/ecumenic/project/blob/master/README.md
 
-4.3. Read our LICENSE
+3.3. Read our LICENSE
 https://github.com/ecumenic/project/blob/master/LICENSE
 
-4.4. Only contact us through our email ecumenic@protonmail.com with:
-- A paragraph about your work.
-- A paragraph about your desired contribution.
-- Feasable proofs you are able to develop your idea, such as your portfolio, execution project, and curriculum vitae. 
+3.4. Research our repository's projects:
+http://github.com/ecumenic
 
-## 4. PROJECT SPECIFICITIES:
-- Audience Restriction: [PG] - Parental Guidance Recommended.
-- Copyright License: Creative Commons [CC BY-NC-SA] 4.1.
+3.5. Only contact us through our email ecumenic@protonmail.com with:
+- A paragraph about your work.
+- A paragraph about your (not yet being developed) desired contribution.
+- Feasable proofs you are able to develop your idea, such as your portfolio, execution project, and curriculum vitae. 
 
 ## 4. ECUMENIC INCLUSIVE SOLIDARY ETHICS:
 
