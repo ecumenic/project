@@ -9,9 +9,27 @@
 - Open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
 
 ## 2. CONTRIBUTIONS NEEDED:
-- Ecumenic Creative Operations overall project optimization.
+- Overall project review and optimization.
+- Website & Documentation review and human audited translation to different languages.
+- Repository projects review and optimization.
 
-## 3. PROJECT SPECIFICITIES:
+## 3. CONTRIBUTING:
+
+4.1. Learn about our project processual architecture and our collaborations reliability engineering at our website and documentation in it:
+http://ecumenic.github.io
+
+4.2. Read our overall project README.ME 
+https://github.com/ecumenic/project/blob/master/README.md
+
+4.3. Read our LICENSE
+https://github.com/ecumenic/project/blob/master/LICENSE
+
+4.4. Only contact us through our email ecumenic@protonmail.com with:
+- A paragraph about your work.
+- A paragraph about your desired contribution.
+- Feasable proofs you are able to develop your idea, such as your portfolio, execution project, and curriculum vitae. 
+
+## 4. PROJECT SPECIFICITIES:
 - Audience Restriction: [PG] - Parental Guidance Recommended.
 - Copyright License: Creative Commons [CC BY-NC-SA] 4.1.
 
