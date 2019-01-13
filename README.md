@@ -26,7 +26,7 @@
 - Other repository projects (https://github.com/ecumenic) review and optimization.
 
 ## 3. CONTRIBUTING:
-Please refer to our Contributing Guide
+Please refer to our Contributing Guide:
 https://github.com/ecumenic/project/blob/master/CONTRIBUTING
 
 ## 4. ECUMENIC INCLUSIVE SOLIDARY ETHICS:
