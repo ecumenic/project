@@ -207,9 +207,15 @@ Interact with your local creative community and ecumenic congregations to analyz
 
 ## 9. CREDITS:
 - Development Environmet by GitHub: http://www.github.com
-- Organization Mind Maps by FreeMind: http://freemind.sourceforge.net
-- Documentats by LibreOffice: https://www.libreoffice.org/
+- Organizational Mind Maps by FreeMind: http://freemind.sourceforge.net
+- Documentation by LibreOffice: https://www.libreoffice.org
 - Fonts Typography by Ubuntu Design: https://design.ubuntu.com/font
+- Iconography by The Noun Project: https://www.thenounproject.com
+- Online Payment by PayPpal: https://www.paypal.com
+- Online Donations by Donorbox: https://www.donorbox.org
+- Online Sponsorship by Patreon: https://www.patreon.com
+- Online BlockChain Payment by FairCoin: https://www.fair-coin.org
+- Online Crowdsourcing by Causes: https://www.causes.com
 
 ## 10. DEVELOPMENT COMMUNITY:
 http://github.com/ecumenic
