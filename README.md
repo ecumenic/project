@@ -234,4 +234,4 @@ ecumenic@protonmail.com
 
 # ◇
 
-Copyright (c) Ecumenic Creative Operations
+Copyright [CC BY-NC-SA] (c) Ecumenic Creative Operations 
