@@ -205,19 +205,25 @@ Interact with your local creative community and ecumenic congregations to analyz
 - Perma-Culture Sustainability.
 - Ecosystem Scalable Co-Growth.
 
-## 9. DEVELOPMENT COMMUNITY:
+## 9. CREDITS:
+- Development Environmet by GitHub: http://www.github.com
+- Organization Mind Maps by FreeMind: http://freemind.sourceforge.net
+- Documentats by LibreOffice: https://www.libreoffice.org/
+- Fonts Typography by Ubuntu Design: https://design.ubuntu.com/font
+
+## 10. DEVELOPMENT COMMUNITY:
 http://github.com/ecumenic
 
-## 10. TEAM:
+## 11. TEAM:
 
 - PROJECT DIRECTOR: Operário Ribeiro
 https://www.linkedin.com/in/operarioribeiro
 
-## 11. LICENCE: 
+## 12. LICENCE: 
 The Ecumenic Creative Operations project uses Creative Commons [CC BY-NC-SA 4.0]
 https://creativecommons.org/licenses/by-nc-sa/4.0
 
-## 12. CONTACT:
+## 13. CONTACT:
 ecumenic@protonmail.com
 
 # ◇
