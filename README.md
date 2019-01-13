@@ -183,18 +183,11 @@ Interact with your local creative community and ecumenic congregations to analyz
 - PROJECT DIRECTOR: Operário Ribeiro
 https://www.linkedin.com/in/operarioribeiro
 
-# 11. CREDITS:
-- Base Template by UIdeck Essence: http://uideck.com
-- Coding References by W3 Schools: https://www.w3schools.com
-- Layout References by LayoutIt: https://www.layoutit.com
-- Fonts Typography by Ubuntu Design: https://design.ubuntu.com/font
-- Iconography by The Noun Project: https://thenounproject.com
+# 11. LICENCE: 
+The Ecumenic Creative Operations project uses Creative Commons [CC BY-NC-SA 4.0]
+https://creativecommons.org/licenses/by-nc-sa/4.0
 
-# 12. LICENCES: 
-- The ECO Project uses Creative Commons [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0
-- The ECO Website uses the MIT: https://opensource.org/licenses/MIT
-
-# 13. CONTACT:
+# 12. CONTACT:
 ecumenic@protonmail.com
 
 # ◇
