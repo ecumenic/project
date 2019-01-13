@@ -20,9 +20,9 @@
 - Copyright License: Creative Commons [CC BY-NC-SA] 4.1.
 
 ## 2. CONTRIBUTIONS NEEDED:
-- Ecumenic Creative Operations project (https://github.com/ecumenic/project) review and optimization.
-- ECO documentation (https://github.com/ecumenic/documentation) review and optimization.
-- Project translation to other multiple languages.
+- Ecumenic Creative Operations Project (https://github.com/ecumenic/project) review and optimization.
+- Ecumenic Creative Operations Documentation (https://github.com/ecumenic/documentation) review and optimization.
+- Project & its documentation translation to other multiple languages.
 - Other repository projects (https://github.com/ecumenic) review and optimization.
 
 ## 3. CONTRIBUTING:
