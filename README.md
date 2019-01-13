@@ -198,3 +198,5 @@ http://github.com/ecumenic
 ecumenic@protonmail.com
 
 # ◇
+
+© Ecumenic Creative Operations
