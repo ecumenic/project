@@ -199,4 +199,4 @@ ecumenic@protonmail.com
 
 # ◇
 
-© Ecumenic Creative Operations
+Copyright (c) Ecumenic Creative Operations
