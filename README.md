@@ -9,9 +9,10 @@
 - Open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
 
 ## 2. CONTRIBUTIONS NEEDED:
-- Overall project review and optimization.
-- Website & Documentation review and human audited translation to different languages.
-- Repository projects review and optimization.
+- Website (https://github.com/ecumenic/ecumenic.github.io) review and human audited translation to different languages.
+- Documentation (https://github.com/ecumenic/documentation) review and human audited translation to different languages.
+- Overall project (https://github.com/ecumenic/project) review and optimization.
+- Other repository projects (https://github.com/ecumenic) review and optimization.
 
 ## 3. CONTRIBUTING:
 
