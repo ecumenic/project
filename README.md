@@ -204,7 +204,7 @@ Interact with your local creative community and ecumenic congregations to analyz
 
 ## 10. ADMINISTRATIVE BOARD:
 
-- PROJECT DIRECTOR: Operário Ribeiro
+- Operário Ribeiro
 https://www.linkedin.com/in/operarioribeiro
 
 ## 11. DEVELOPMENT COMMUNITY:
