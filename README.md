@@ -60,5 +60,3 @@ https://github.com/ecumenic/project/blob/master/LICENSE
 ecumenic@protonmail.com
 
 # ◇
-
-Copyright [CC BY-NC-SA] (c) Ecumenic Creative Operations 
