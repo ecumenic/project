@@ -40,17 +40,9 @@ Only contact us through our email ecumenic@protonmail.com with:
 
 ## 7. PROJECT RESEARCH:
 - Before doing anything, do a quick check to make sure your idea hasn’t been discussed elsewhere.
-- Skim the project’s README, issues (open and closed), mailing list, and Stack Overflow.
+- Skim the project’s README.MD, issues (open and closed), policies, social medias, and development communities.
 - You don’t have to spend hours going through everything, but a quick search for a few key terms goes a long way.
 - If you can’t find your idea elsewhere, you’re ready to make a move. 
-
-7.1. GITING:
-If the project is on GitHub, you’ll likely communicate by opening an issue or pull request:
-- Issues are like starting a conversation or discussion.
-- Pull requests are for starting work on a solution.
-- For lightweight communication, such as a clarifying or how-to question, use the communication ways we will send you in your acceptance email.
-- Before you open an issue or pull request, check the project’s contributing README.MD for you may need to se specific methods.
-- If you want to make a substantial contribution, open an issue to ask before working on it. It’s helpful to watch the project for a while (on GitHub, you can click “Watch” to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
 
 ## 8. COMMUNICATE EFFECTIVELY:
 Whether you’re a one-time contributor or trying to join a community, working with others is one of the most important skills you’ll develop in open source.
@@ -63,11 +55,52 @@ Whether you’re a one-time contributor or trying to join a community, working w
 - Respect community decisions. Your ideas may differ from the community’s priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
 - Above all, keep it politely respectful. Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It’s fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
-## 9. LICENCE: 
+
+## 9. GITING:
+If the project is on GitHub, you’ll likely communicate by opening an issue or pull request:
+- Issues are like starting a conversation or discussion.
+- Pull requests are for starting work on a solution.
+- For lightweight communication, such as a clarifying or how-to question, use the communication ways we will send you in your acceptance email.
+- Before you open an issue or pull request, check the project’s contributing README.MD for you may need to se specific methods.
+- If you want to make a substantial contribution, open an issue to ask before working on it. 
+- It’s helpful to watch the project for a while (on GitHub, you can click “Watch” to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+
+9.1. OPENING AN ISSUE:
+You should usually open an issue in the following situations:
+- Report an error you can’t solve yourself
+- Discuss a high-level topic or idea (for example, community, vision or policies)
+- Propose a new feature or other project idea
+- Tips for communicating on issues:
+- If you see an open issue that you want to tackle, comment on the issue to let people know you’re on it. That way, people are less likely to duplicate your work.
+- If an issue was opened a while ago, it’s possible that it’s being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
+- If you opened an issue, but figured out the answer later on your own, comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+
+9.2. WHY OPEN A PULL REQUEST:
+- You should usually open a pull request in the following situations:
+- Submit trivial fixes (for example, a typo, a broken link or an obvious error)
+- Start work on a contribution that was already asked for, or that you’ve already discussed, in an issue
+- A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
+
+9.3. OPENING A PULL REQUEST:
+- Fork the repository and clone it locally. 
+- Connect your local to the original “upstream” repository by adding it as a remote.
+- Pull in changes from “upstream” often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely.
+- Create a branch for your edits.
+- Reference any relevant issues or supporting documentation.
+- Include screenshots of the before and after if your changes include differences in coding. Drag and drop the images into the body of your pull request.
+- Test your changes! Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
+- Contribute in the style of the project to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+
+## 10. WHAT HAPPENS AFTER YOUR CONTRIBUTION:
+- Someone requests changes to your contribution:It’s common that you’ll be asked to make changes to your contribution, whether that’s feedback on the scope of your idea, or changes to your code. When someone requests changes, be responsive. They’ve taken the time to review your contribution. Opening a PR and walking away is bad form. If you don’t know how to make changes, research the problem, then ask for help if you need it. If you don’t have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they’re not expecting a response. Someone else may be happy to take over.
+- Your contribution may not get accepted: Your contribution may or may not be accepted in the end. Hopefully you didn’t put too much work into it already. If you’re not sure why it wasn’t accepted, it’s perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you’ll need to respect that this is their decision. Don’t argue or get hostile. You’re always welcome to fork and work on your own version if you disagree!
+- Your contribution gets accepted.
+
+## 11. LICENCE: 
 The Ecumenic Creative Operations project uses Creative Commons [CC BY-NC-SA 4.0]
 https://creativecommons.org/licenses/by-nc-sa/4.0
 
-## 10. CONTACT:
+## 12. CONTACT:
 ecumenic@protonmail.com
 
 # ◇
