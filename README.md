@@ -1,22 +1,18 @@
 # ECUMENIC CREATIVE OPERATIONS 
-## http://ecumenic.github.io
-## http://github.com/ecumenic
+## https://ecumenic.github.io
+## https://github.com/ecumenic
 ## ecumenic@protonmail.com
 
 # ◇
 
 # ECUMENIC CREATIVE OPERATIONS PROJECT
-## http://github.com/ecumenic/project
+## https://github.com/ecumenic/project
 ## ecumenic@protonmail.com
 
 # ◇
 
 ## 1. PROJECT: 
 - Open-source ethic responsible site-specific sustainable collaborative solidary cultural contemporary creativity development project.
-
-1.1. PARTICIPATION RESTRICTION: 
-- Audience Restriction: [PG] - Parental Guidance Recommended.
-https://en.wikipedia.org/wiki/Motion_picture_content_rating_system
 
 ## 2. CONTRIBUTIONS NEEDED:
 - Ecumenic Creative Operations Project (https://github.com/ecumenic/project) review and optimization.
@@ -29,7 +25,7 @@ Please refer to our 'CONTRIBUTING' guide to understand how we work in this proje
 https://github.com/ecumenic/project/blob/master/CONTRIBUTING
 
 ## 4. CODE OF HONOUR:
-Please refer to our ecumenic inclusive solidary compliant 'CODE OF CONDUCT' to understand our ethic obligtions in this project.
+Please refer to our ecumenic inclusive solidary compliant 'CODE OF CONDUCT' to understand our ethic obligations in this project.
 https://github.com/ecumenic/project/blob/master/CODE_OF_CONDUCT
 
 ## 5. TRANSPARENT CONTRACTS:
@@ -58,6 +54,7 @@ http://github.com/ecumenic
 
 ## 10. LICENCE: 
 The Ecumenic Creative Operations project uses Creative Commons [CC BY-NC-SA 4.0]
+https://github.com/ecumenic/project/blob/master/LICENSE
 https://creativecommons.org/licenses/by-nc-sa/4.0
 
 ## 11. CONTACT:
