@@ -38,6 +38,20 @@ Only contact us through our email ecumenic@protonmail.com with:
 - A paragraph about your desired contribution; &
 - Feasable proofs you are able to develop your idea, such as your portfolio, execution project, and curriculum vitae. 
 
+## 7. PROJECT RESEARCH:
+- Before doing anything, do a quick check to make sure your idea hasn’t been discussed elsewhere.
+- Skim the project’s README, issues (open and closed), mailing list, and Stack Overflow.
+- You don’t have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+- If you can’t find your idea elsewhere, you’re ready to make a move. 
+
+7.1. GITING:
+If the project is on GitHub, you’ll likely communicate by opening an issue or pull request:
+- Issues are like starting a conversation or discussion.
+- Pull requests are for starting work on a solution.
+- For lightweight communication, such as a clarifying or how-to question, use the communication ways we will send you in your acceptance email.
+- Before you open an issue or pull request, check the project’s contributing README.MD for you may need to se specific methods.
+- If you want to make a substantial contribution, open an issue to ask before working on it. It’s helpful to watch the project for a while (on GitHub, you can click “Watch” to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+
 ## 8. COMMUNICATE EFFECTIVELY:
 Whether you’re a one-time contributor or trying to join a community, working with others is one of the most important skills you’ll develop in open source.
 - Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
