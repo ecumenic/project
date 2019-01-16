@@ -92,7 +92,10 @@ https://github.com/ecumenic/project/blob/master/LICENSE
 2.6. COMMIT TO OUR CODE OF CONDUCT REVIEWING IT:
 https://github.com/ecumenic/project/blob/master/CODE_OF_CONDUCT
 
-2.7. PRECISEVELY CONTACT US:
+2.7. PURPOSE ALIGNEMENT:
+- Please beware that if you join us you will be asked to sign a legal contract declaring yourself in alignment to our purposes and to our consensual internal policies and to follow our work methodology.
+
+2.8. PRECISEVELY CONTACT US:
 Only contact us through our email ecumenic@protonmail.com with:
 - Your GitHub username or how you will contribute reliably outside of it;
 - A paragraph about your work;
@@ -102,7 +105,7 @@ Only contact us through our email ecumenic@protonmail.com with:
 ## 3. AFTER YOU'VE BEEN ACCEPTED TO JOIN USE:
 
 3.1. PROJECT WELCOME REVIEW:
-- We will contact you with a welcome letter with instructions and a gift for your participation.
+- We will contact you with our welcome letter with instructions and a gift for your participation.
 - We will give you a project overview presentation with your role authorizations and project duties and aid you in presenting yourself to our community.
 - Please tell us if you'd like to have personal mentoring.
 - Research our ongoing projects, repositories, your contributive issues and pulls.
@@ -142,16 +145,18 @@ https://en.wikipedia.org/wiki/Prayer
 https://en.wikipedia.org/wiki/Respect
 https://en.wikipedia.org/wiki/Dignity
 
-3.3. GIT IN OUR HUB:
-If the project is on GitHub, you’ll likely communicate by opening an issue or pull request, but this methodology is also used by us as our benchmark reference:
-- Issues are like starting a conversation or discussion.
-- Pull requests are for starting work on a solution.
-- For lightweight communication, such as a clarifying or how-to question, use the communication ways we will send you in your acceptance email.
-- Before you open an issue or pull request, check the project’s contributing README.MD for you may need to se specific methods.
+3.3. GIT COLLABORATING:
+We use Git methodology in our decision-making and conflict resolution.
+We 'issue' problems analysis or 'pull' solutions proposals in the project.
+This way we are able to have a historic of our projects changes and get features back when necessary.
+https://en.wikipedia.org/wiki/Git
+https://en.wikipedia.org/wiki/Issue_tracking_system
+https://en.wikipedia.org/wiki/Distributed_version_control#Pull_requests
+- Before you open an 'issue' or 'pull' request, check the project’s contributing README.MD, to make sure it is not yet being developed, and also you may need to set it to specific methods.
 - If you want to make a substantial contribution, open an issue to ask before working on it. 
 - It’s helpful to watch the project for a while (on GitHub, you can click “Watch” to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
 
-3.3.1. OPENING AN ISSUE:
+3.3.1. ISSUE OPENING:
 You should usually open an issue in the following situations:
 - Report an error you can’t solve yourself
 - Discuss a high-level topic or idea (for example, community, vision or policies)
@@ -161,13 +166,11 @@ You should usually open an issue in the following situations:
 - If an issue was opened a while ago, it’s possible that it’s being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 - If you opened an issue, but figured out the answer later on your own, comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
-3.3.2. WHY OPEN A PULL REQUEST:
+3.3.2. PULL REQUESTING:
 - You should usually open a pull request in the following situations:
 - Submit trivial fixes (for example, a typo, a broken link or an obvious error)
 - Start work on a contribution that was already asked for, or that you’ve already discussed, in an issue
 - A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
-
-3.3.3. OPENING A PULL REQUEST:
 - Fork the repository and clone it locally. 
 - Connect your local to the original “upstream” repository by adding it as a remote.
 - Pull in changes from “upstream” often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely.
@@ -177,9 +180,12 @@ You should usually open an issue in the following situations:
 - Test your changes! Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
 - Contribute in the style of the project to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
+3.4. CONTRIBUTIONS ANALYSIS:
+https://en.wikipedia.org/wiki/Conflict_resolution
+https://en.wikipedia.org/wiki/Paradox
+
 3.4. WHAT HAPPENS AFTER YOUR CONTRIBUTION:
-- Someone requests changes to your contribution:It’s common that you’ll be asked to make changes to your contribution, whether that’s feedback on the scope of your idea, or changes to your code. When someone requests changes, be responsive. They’ve taken the time to review your contribution. Opening a PR and walking away is bad form. If you don’t know how to make changes, research the problem, then ask for help if you need it. If you don’t have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they’re not expecting a response. Someone else may be happy to take over.
-- Your contribution may not get accepted: Your contribution may or may not be accepted in the end. Hopefully you didn’t put too much work into it already. If you’re not sure why it wasn’t accepted, it’s perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you’ll need to respect that this is their decision. Don’t argue or get hostile. You’re always welcome to fork and work on your own version if you disagree!
+- Your contribution may not get accepted: Hopefully you didn’t put too much work into it already. If you’re not sure why it wasn’t accepted, it’s perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you’ll need to respect that this is their decision. Don’t argue or get hostile, but if you need please contact the project maintainer. You’re always welcome to make other propositions. and if you really believe your solution must be developed, announce us your fork project may God guide you in it.
 - Your contribution gets accepted.
 
 ## 4. LICENCE: 
