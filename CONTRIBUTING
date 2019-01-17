@@ -83,19 +83,22 @@ http://bit.ly/CollaborateOnGitHub
 - Research the GitHub documentation below to understand how to collaborate on a specific project. 
 https://opensource.guide/how-to-contribute/#what-it-means-to-contribute
 
-2.3. REVIEW OUR README.MD:
-https://github.com/ecumenic/project/blob/master/README.md
+2.3. REVIEW OUR README:
+https://github.com/ecumenic/project/blob/master/README
 
-2.5. COMMIT TO OUR LICENSE AGREEMENT REVIEWING IT:
+2.5. COMMIT TO OUR LICENSE AGREEMENT:
 https://github.com/ecumenic/project/blob/master/LICENSE
 
-2.6. COMMIT TO OUR CODE OF CONDUCT REVIEWING IT:
+2.6. COMMIT TO OUR CODE OF CONDUCT:
 https://github.com/ecumenic/project/blob/master/CODE_OF_CONDUCT
 
-2.7. PURPOSE ALIGNEMENT:
+2.7. COMMIT TO OUR CONTRACT:
+https://github.com/ecumenic/project/blob/master/CONTRACT
+
+2.8. PURPOSE ALIGNMENT:
 - Please beware that if you join us you will be asked to sign a legal contract declaring yourself in alignment to our purposes and to our consensual internal policies and to follow our work methodology.
 
-2.8. PRECISEVELY CONTACT US:
+2.9. PRECISEVELY CONTACT US:
 Only contact us through our email ecumenic@protonmail.com with:
 - Your GitHub username or how you will contribute reliably outside of it;
 - A paragraph about your work;
@@ -180,9 +183,14 @@ You should usually open an issue in the following situations:
 - Test your changes! Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
 - Contribute in the style of the project to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
-3.4. CONTRIBUTIONS ANALYSIS:
-https://en.wikipedia.org/wiki/Conflict_resolution
-https://en.wikipedia.org/wiki/Paradox
+3.4. CONFLICT RESOLUTION:
+We use our 'CODE OF CONDUCT' and 'CONTRACT' to stablish conflict resolution.
+If you have any problem not stipulated in it contact us as soon as possible.
+https://github.com/ecumenic/project/blob/master/CODE_OF_CONDUCT
+https://github.com/ecumenic/project/blob/master/CONTRACT
+
+3.5. CONTRIBUTIONS ANALYSIS:
+We use systemic reliability engineering devops analysis to decide the best suiting contributions for our project each moment with equal opportunities for everyone.
 
 3.4. WHAT HAPPENS AFTER YOUR CONTRIBUTION:
 - Your contribution may not get accepted: Hopefully you didn’t put too much work into it already. If you’re not sure why it wasn’t accepted, it’s perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you’ll need to respect that this is their decision. Don’t argue or get hostile, but if you need please contact the project maintainer. You’re always welcome to make other propositions. and if you really believe your solution must be developed, announce us your fork project may God guide you in it.
