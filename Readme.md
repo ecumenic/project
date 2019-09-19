@@ -1,7 +1,4 @@
-## Ecumenic Creative Operations
-* https://ecumenic.github.io
-* https://github.com/ecumenic
-* ecumenic@protonmail.com
+## Ecumenic Creative Operations: https://ecumenic.github.io ◇ https://github.com/ecumenic ◇ ecumenic@protonmail.com
 
 (Logo.png)
 
