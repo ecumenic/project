@@ -1,4 +1,5 @@
-## Ecumenic Creative Operations Project: https://github.com/ecumenic/project
+# Ecumenic Creative Operations Project: 
+## https://github.com/ecumenic/project
 ![Our Logo](https://github.com/ecumenic/project/blob/master/Ecumenic%20Creative%20Operations%20Logo.png)
 1. Project: For informations on our project visit our website (https://ecumenic.github.io) and read our project (https://bit.ly/ecumenic-project) and repository documentation.
 2. Compliance: We follow the most respectable global institutions standards charters (https://bit.ly/ecumenic-standards).
