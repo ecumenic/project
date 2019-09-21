@@ -4,7 +4,7 @@
 2. **Compliance:** We follow the most respectable global institutions standards charters (https://bit.ly/ecumenic-compliance).
 3. **Code Of Conduct:** From our compliance we develop our enterprise code of conduct (https://bit.ly/ecumenic-conduct).
 4. **License:** From our code of conduct we choose our license (https://bit.ly/ecumenic-license).
-5. **Contributing Guidelines:** From our project, code of conduct, and license, we develop our contributions guide (https://bit.ly/ecumenic-contribution).
+5. **Collaboration Guidelines:** From our project, code of conduct, and license, we develop our contributions guide (https://bit.ly/ecumenic-collaboration).
 6. **Business Contract Model:** From our contribution guidelines we develop our scheduled budgeted transactions contractual engineering legal template (https://bit.ly/ecumenic-contract).
 7. **Ecosystem Analysis:** From our enterprise we develop our data-scientific research on global concearning indicators and trends (https://bit.ly/ecumenic-ecosystem).
 8. **Ecomuseologic Program:** From our ecosystemic data-analysis we develop our curatorial artscraft educational toolbox (https://bit.ly/ecumenic-ecomuseology).
