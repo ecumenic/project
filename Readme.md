@@ -2,7 +2,7 @@
 ![Our Logo](https://github.com/ecumenic/project/blob/master/Ecumenic%20Creative%20Operations%20Logo.png)
 1. **Project:** For detailed informations visit our website (https://ecumenic.github.io), read our project (http://bit.do/ecumenic-project), and the repository documentation.
 2. **Compliance Standards:** We follow the most respectable global institutions standards charters (https://bit.do/ecumenic-compliance).
-3. **Code Of Conduct:** From our compliance we develop our enterprise code of conduct (https://bit.ly/ecumenic-conduct).
+3. **Code Of Conduct:** From our compliance we develop our enterprise code of conduct (https://bit.do/ecumenic-conduct).
 4. **License Agreement:** From our code of conduct we choose our license (https://bit.do/ecumenic-license).
 5. **Collaboration Guidelines:** From our project, code of conduct, and license, we develop our contributions guide (https://bit.do/ecumenic-collaboration).
 6. **Business Contract Model:** From our contribution guidelines we develop our scheduled budgeted transactions contractual engineering legal template (https://bit.do/ecumenic-contract).
