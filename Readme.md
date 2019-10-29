@@ -6,7 +6,7 @@
 4. **License Agreement:** From our code of conduct we choose our license (https://bit.do/ecumenic-license).
 5. **Collaboration Guidelines:** From our project, code of conduct, and license, we develop our contributions guide (https://bit.do/ecumenic-collaboration).
 6. **Business Contract Model:** From our contribution guidelines we develop our scheduled budgeted transactions contractual engineering legal template (https://bit.do/ecumenic-contract).
-7. **Ecosystem Analysis:** From our enterprise we develop our data-scientific research on global concearning indicators and trends (https://bit.do/ecumenic-ecosystem).
+7. **Ecosystem Analysis & Bibliography:** From our enterprise we develop our data-scientific research on global concearning indicators and trends, including a multimedia bibliography with links (https://bit.do/ecumenic-ecosystem).
 8. **Ecomuseologic Program:** From our ecosystemic data-analysis we develop our curatorial artscraft educational toolbox (https://bit.do/ecumenic-ecomuseology).
 9. **Ecocreativity Aesthetics:** From our modular artistic ecomuseology we develop our reliability engineering philosophic treatise (https://bit.do/ecumenic-ecocreativity).
 10. **Collaborating:** You may support us donating (https://donorbox.org/ecumenic), sending a contribution (https://bit.do/ecumenic-contribution), joining our development community, and proposing a partnership (https://ecumenic-partnership).
