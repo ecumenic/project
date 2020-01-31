@@ -1,16 +1,6 @@
-<map version="0.9.0">
+<map version="0.8.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#333333" CREATED="1542078361721" ID="ID_1451409411" MODIFIED="1548615924477" STYLE="bubble">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Ecumenic Creative Operations
-    </p>
-  </body>
-</html></richcontent>
+<node COLOR="#333333" CREATED="1542078361721" ID="ID_1451409411" MODIFIED="1580440109560" STYLE="bubble" TEXT="Ecumenic Creative Operations">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1542566307789" FOLDED="true" ID="ID_1499477013" MODIFIED="1566877241560" POSITION="right" TEXT="Development Schedule">
@@ -72,6 +62,7 @@
 <node CREATED="1542846274473" ID="ID_486538160" MODIFIED="1542846685221" TEXT="Edit-A-Thon Festival"/>
 </node>
 </node>
+<node CREATED="1580440124592" ID="_" MODIFIED="1580440151049" TEXT="Startup Accelerator"/>
 </node>
 <node CREATED="1542294060640" FOLDED="true" ID="ID_245791667" MODIFIED="1566875686805" POSITION="right" STYLE="bubble" TEXT="Presentation">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
