@@ -9,6 +9,7 @@
 7. **Ecosystem Analysis & Bibliography:** From our enterprise we develop our data-scientific research on global concearning indicators and trends, including a multimedia bibliography with links (https://bit.do/ecumenic-ecosystem).
 8. **Ecomuseologic Program:** From our ecosystemic data-analysis we develop our curatorial artscraft educational toolbox (https://bit.do/ecumenic-ecomuseology).
 9. **Ecocreativity Aesthetics:** From our modular artistic ecomuseology we develop our reliability engineering philosophic treatise (https://bit.do/ecumenic-ecocreativity).
-10. **Collaborating:** You may support us donating (https://donorbox.org/ecumenic), sending a contribution (https://bit.do/ecumenic-contribution), joining our development community, and proposing a partnership (https://ecumenic-partnership).
-11. **Selected Portfolio:** We organized some of our previous works for your appreciation (https://bit.do/ecumenic-portfolio).
-12. **Articles:** We, our creative director mainly, write academic papers explaining our procedures more precisely (http://bit.do/ecumenic-articles).
+10. **Selected Portfolio:** We organized some of our previous works for your appreciation (https://bit.do/ecumenic-portfolio).
+11. **Articles:** We, our creative director mainly, write academic papers explaining our procedures more precisely (http://bit.do/ecumenic-articles).
+12. **Social Media:** We are constantly updating the Ecumenic Times multimedia channels which we merge in this link (https://bit.do/ecumenic-times), it is comprised of: https://www.linkedin.com/company/ecumenic, https://ecumenic.bandcamp.com, https:/flickr.com/photos/ecumenic/albums, https://www.facebook.com/pg/ecumenictimes/events, https://medium.com/@ecumenictimes, https://twitter.com/ecumenictimes, https://instagram.com/ecumenictimes, https://anchor.fm/ecumenictimes, http://bit.ly/ecumenic-channel.
+13. **Collaborating:** You may support us donating (https://donorbox.org/ecumenic), sending a contribution (https://bit.do/ecumenic-contribution), joining our development community, and proposing a partnership (https://ecumenic-partnership).
