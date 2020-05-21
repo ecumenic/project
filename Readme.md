@@ -11,7 +11,7 @@ https://github.com/ecumenic/project
 8. **Ecocuratorship Catalogue:** We selected from our ecosystem research a minimum historiographic scenario of multimedia artworks (http://bit.do/ecumenic-ecocuratorship) including a museum case study.
 9. **Ecomuseologic Program:** From our ecosystem data-analysis we develop our curatorial artscraft educational toolbox (https://bit.do/ecumenic-ecomuseology).
 11. **Ecologics:** From our modular artistic ecomuseology we develop our reliability engineering scientific methodology ontology (https://bit.do/ecumenic-ecologics).
-10. **Ecopoethics:** From our ontologic research we operate our aesthetics philosophy (https://bit.do/ecumenic-ecocreativity).
+10. **Ecopoethics:** From our ontologic research we operate our aesthetics philosophy (https://bit.do/ecumenic-ecopoethics).
 11. **Selected Portfolio:** We organized some of our previous works for your appreciation (https://bit.do/ecumenic-portfolio).
 12. **Articles:** We, our creative director mainly, write academic papers explaining our procedures more precisely (http://bit.do/ecumenic-articles).
 13. **Social Media:** We are constantly updating the Ecumenic Times multimedia channels which we merge in this link (https://bit.do/ecumenic-times), it is comprised of: https://www.linkedin.com/company/ecumenic, https://ecumenic.bandcamp.com, https:/flickr.com/photos/ecumenic/albums, https://www.facebook.com/pg/ecumenictimes/events, https://medium.com/@ecumenictimes, https://twitter.com/ecumenictimes, https://instagram.com/ecumenictimes, https://anchor.fm/ecumenictimes, http://bit.ly/ecumenic-channel.
