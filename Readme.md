@@ -1,4 +1,5 @@
-# Ecumenic Creative Operations Project: https://github.com/ecumenic/project
+# Ecumenic Creative Operations Project: 
+https://github.com/ecumenic/project
 ![Our Logo](https://github.com/ecumenic/project/blob/master/Ecumenic%20Creative%20Operations%20Logo.png)
 1. **Project:** For detailed informations visit our website (https://ecumenic.github.io), read our project (http://bit.do/ecumenic-project), and the repository documentation.
 2. **Compliance Standards:** We follow the most respectable global institutions standards charters (https://bit.do/ecumenic-compliance).
@@ -9,7 +10,8 @@
 7. **Ecosystem Analysis & Bibliography:** From our enterprise we develop our data-scientific research on global concearning indicators and trends, including a multimedia bibliography with links (https://bit.do/ecumenic-ecosystem).
 8. **Ecocuratorship Catalogue:** We selected from our ecosystem research a minimum historiographic scenario of multimedia artworks (http://bit.do/ecumenic-ecocuratorship) including a museum case study.
 9. **Ecomuseologic Program:** From our ecosystem data-analysis we develop our curatorial artscraft educational toolbox (https://bit.do/ecumenic-ecomuseology).
-10. **Ecocreativity Aesthetics:** From our modular artistic ecomuseology we develop our reliability engineering philosophic treatise (https://bit.do/ecumenic-ecocreativity).
+11. **Ecologics:** From our modular artistic ecomuseology we develop our reliability engineering scientific methodology ontology (https://bit.do/ecumenic-ecologics).
+10. **Ecopoethics:** From our ontologic research we operate our aesthetics philosophy (https://bit.do/ecumenic-ecocreativity).
 11. **Selected Portfolio:** We organized some of our previous works for your appreciation (https://bit.do/ecumenic-portfolio).
 12. **Articles:** We, our creative director mainly, write academic papers explaining our procedures more precisely (http://bit.do/ecumenic-articles).
 13. **Social Media:** We are constantly updating the Ecumenic Times multimedia channels which we merge in this link (https://bit.do/ecumenic-times), it is comprised of: https://www.linkedin.com/company/ecumenic, https://ecumenic.bandcamp.com, https:/flickr.com/photos/ecumenic/albums, https://www.facebook.com/pg/ecumenictimes/events, https://medium.com/@ecumenictimes, https://twitter.com/ecumenictimes, https://instagram.com/ecumenictimes, https://anchor.fm/ecumenictimes, http://bit.ly/ecumenic-channel.
