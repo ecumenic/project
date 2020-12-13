@@ -1,4 +1,4 @@
-# Ecumenic Creative Operations Project: 
+# Ecumenic Times Project: 
 https://github.com/ecumenic/project
 ![Our Logo](https://github.com/ecumenic/project/blob/master/Ecumenic%20Creative%20Operations%20Logo.png)
 1. **Project:** For detailed informations visit our website (https://ecumenic.github.io), read our project (http://bit.do/ecumenic-project), and the repository documentation.
